@@ -1,0 +1,12 @@
+{
+  "name": "Brief-Horloge",
+  "version": "1.0.0",
+  "description": "Dans ce projet, vous allez utiliser ce que vous avez appris et le mettre en pratique dans une démo, en utilisant JavaScript et CSS pour créer une `horloge analogique` fonctionnelle.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
